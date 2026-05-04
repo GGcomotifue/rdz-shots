@@ -5,7 +5,7 @@ export default function Home() {
       {/* HERO */}
       <section style={{
         height: "100vh",
-        backgroundImage: "url('https://images.unsplash.com/photo-1516035069371-29a1b244cc32')",
+        backgroundImage: "url('https://www.xatakafoto.com/trucos-y-consejos/estas-son-las-cualidades-que-te-pueden-ayudar-a-convertirte-en-fotografo-profesional')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         display: "flex",
