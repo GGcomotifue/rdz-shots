@@ -2,12 +2,9 @@ export default function Home() {
   return (
     <div>
 
-      <section className="hero">
-        <div className="overlay">
-          <h1>RDZ Shots</h1>
-          <p>Capturamos momentos únicos</p>
-        </div>
-      </section>
+    <section className="hero-pro">
+  <h1 className="logo-center">RDZ Shots</h1>
+</section>
 
       <section className="section">
         <h2>Portafolio</h2>
