@@ -12,9 +12,10 @@ export default function Home() {
       <section className="section">
         <h2>Portafolio</h2>
         <div className="grid">
-          <img src="https://images.unsplash.com/photo-1504208434309-cb69f4fe52b0" />
-          <img src="https://images.unsplash.com/photo-1492724441997-5dc865305da7" />
-          <img src="https://images.unsplash.com/photo-1519741497674-611481863552" />
+          <img src="" />
+          <img src="" />
+          <img src="" />
+          
         </div>
       </section>
 
